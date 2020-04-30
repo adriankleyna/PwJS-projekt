@@ -1,0 +1,136 @@
+.text-head-2 {
+    color: red;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#col-left {
+    background-color: mediumseagreen;
+    width: 25%;
+    height: auto;
+    float: left;
+}
+
+#col-center {
+    background-color: mediumturquoise;
+    width: 75%;
+    height: auto;
+    float: right;
+}
+
+.text-left-col {
+    color: white;
+    margin: auto;
+}
+
+.text-apart {
+    color: rgb(185, 109, 204);
+    text-align: center;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+main {
+    width: 100%;
+    height: 25%;
+    overflow: hidden;
+}
+
+body {
+    font-size: 18px;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    margin: auto;
+}
+
+header {
+    display: block;
+    width: 100%;
+    height: 75px;
+    text-align: left;
+    position: relative;
+}
+
+nav {
+    display: block;
+    width: 100%;
+    text-align: left;
+}
+
+main {
+    width: 100%;
+    height: 25%;
+    overflow: hidden;
+}
+
+footer {
+    background-color: #66ccbb;
+    width: 100%;
+    height: 50px;
+    clear: both;
+}
+
+#container {
+    position: relative;
+    margin: auto;
+    width: 1078px;
+    height: auto;
+    overflow: hidden;
+}
+
+.text-body {
+    color: black;
+    font-size: large;
+}
+
+.h1-black {
+    font-size: 30px;
+    color: black;
+    font-family: 'Merriweather', Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: blue;
+    font-family: 'Merriweather', Arial, Helvetica, sans-serif;
+}
+
+h3 {
+
+    font-family: 'Merriweather', Arial, Helvetica, sans-serif;
+
+}
+
+h4 {
+
+    font-family: 'Merriweather', Arial, Helvetica, sans-serif;
+}
+
+h5 {
+
+    font-family: 'Merriweather', Arial, Helvetica, sans-serif;
+}
+
+h6 {
+
+    font-family: 'Merriweather', Arial, Helvetica, sans-serif;
+}
+
+.form1 {
+    background-color: burlywood;
+    margin: auto;
+    width: 50%;
+}
+
+.formularz {
+    margin-top: 50px;
+    color: black;
+}
+
+#zdjecia {
+    color: black;
+    text-align: center;
+}
+
+.modal-body {
+    color:black;
+}
